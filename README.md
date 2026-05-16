@@ -46,7 +46,7 @@ The dataset contains hourly climatological observations from JFK Airport includi
 
 ## Results Summary
 
-The project explored multiple regression approaches for precipitation prediction including polynomial regression, Ridge, and Lasso regularization. Detailed findings, methodology discussions, graph interpretations, and model evaluations are available in the `results/` folder.
+The project explored multiple regression approaches for precipitation prediction including polynomial regression, Ridge, and Lasso regularization. Detailed findings, methodology discussions, graph interpretations, and model evaluations are available in the `results_and_findings/` folder.
 
 ## Repository Structure
 
